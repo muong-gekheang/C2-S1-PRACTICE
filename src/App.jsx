@@ -1,6 +1,6 @@
 import Header from "./components/header";
 import Scores from "./components/Scores";
-import StatisticComponent from "./components/StatisticComponent"
+// import StatisticComponent from "./components/StatisticComponent"
 import { HTML_RESULTS } from "./data";
 function App() {
   return (

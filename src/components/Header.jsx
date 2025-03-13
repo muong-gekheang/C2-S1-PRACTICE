@@ -8,7 +8,6 @@ function Header(props){
             <img src={pnLogo} alt="PN Logo" />
             <h1>{props.batchName}</h1>
         </header>
-    
     )
 }
 

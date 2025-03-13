@@ -1,4 +1,5 @@
-import StatisticComponent from "./components/StatisticComponent"
+import StatisticComponent from "../components/StatisticComponent"
+import { HTML_RESULTS } from "../data";
 function Scores({courseName, courseResult}) {
     return (
       <div className="scores-container">
